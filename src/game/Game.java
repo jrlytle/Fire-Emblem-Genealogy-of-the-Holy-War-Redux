@@ -43,7 +43,6 @@ public class Game extends Application
         stage.show(); //Makes the stage visible
         stage.setResizable(false); //Sets window so that it can't be resized
         
-        MoveRangeRunnable mRR = new MoveRangeRunnable(upperScreen);
         Thread moveRangeRun = new Thread(mRR);
         
         new AnimationTimer()
