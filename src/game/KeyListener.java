@@ -15,7 +15,6 @@ import javafx.scene.shape.Rectangle;
 public class KeyListener
 {
     DrawMap dM = new DrawMap();
-    DrawStatScreen dSS = new DrawStatScreen();
 
     boolean upKey = false;
     boolean downKey = false;
