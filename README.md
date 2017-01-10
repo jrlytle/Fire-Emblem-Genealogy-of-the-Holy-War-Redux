@@ -10,9 +10,11 @@ Very Basic Readme - Need to spruce up more before finalized and decide how to us
 * **Q** (like Left Bumper on DS/3DS) -  <br />
 * **W** (like Right Bumper on DS/3DS) -  <br />
 * **ENTER**/**RETURN** (like Start on DS/3DS) - Skip cutscene/dialogue <br />
-* **Right SHIFT** (like Select on DS/3DS) -  <br />
-<br />
-##**_Task List:_** (May break down categories for really tedious tasks, e.g into chapters) <br />
+* **Right SHIFT** (like Select on DS/3DS) - 
+
+
+##**_Task List:_** <br />
+(May break down categories for really tedious tasks, e.g into chapters) <br />
 - [ ] Finish Readme
 - [x] Create three panes, one for "upper screen", one for characters on upper screen and one for lower screen
 - [x] Give slight tilt to upper screen to give illusion of 3D effect
