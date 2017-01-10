@@ -15,6 +15,7 @@ Very Basic Readme - Need to spruce up more before finalized and decide how to us
 
 ##**_Task List:_** <br />
 (May break down categories for really tedious tasks, e.g into chapters) <br />
+Takes Deep Breath...
 - [ ] Finish Readme
 - [x] Create three panes, one for "upper screen", one for characters on upper screen and one for lower screen
 - [x] Give slight tilt to upper screen to give illusion of 3D effect
@@ -27,7 +28,7 @@ Very Basic Readme - Need to spruce up more before finalized and decide how to us
   - [ ] Gen Two
     - [ ] Named Characters
     - [ ] Unnamed Characters
-- [x] Add all characters that exist in prologue to prologue
+- [x] Add all characters that exist in Prologue
 - [x] Create all Swords
 - [x] Create all Lances
 - [x] Create all bows
@@ -43,10 +44,46 @@ Very Basic Readme - Need to spruce up more before finalized and decide how to us
 - [ ] Create all items
 - [x] Create Stat Screen when cursor is moved over character
 - [ ] Clean up Existing Code (e.g. Display Stat Screen and Display Tips)
-- [ ] Finish Map Tile Graphics (Urgh tedious...)
+- [ ] Finish Map Tile Graphics for Prologue (Urgh tedious...)
 - [ ] Finalize Movement range/Attack Range and debug
 - [ ] Begin coding Battle Formulas
 - [ ] Inject basic battle sequences (without 3D graphics)
+- [ ] Set up basic size of Chapter 1
+- [ ] Finish Map Tile Graphics for Chapter 1
+- [ ] Add all characters that exist in Chapter 1
+- [ ] Set up basic size of Chapter 2
+- [ ] Finish Map Tile Graphics for Chapter 2
+- [ ] Add all characters that exist in Chapter 2
+- [ ] Set up basic size of Chapter 3
+- [ ] Finish Map Tile Graphics for Chapter 3
+- [ ] Add all characters that exist in Chapter 3
+- [ ] Set up basic size of Chapter 4
+- [ ] Finish Map Tile Graphics for Chapter 4
+- [ ] Add all characters that exist in Chapter 4
+- [ ] Set up basic size of Chapter 5
+- [ ] Finish Map Tile Graphics for Chapter 5
+- [ ] Add all characters that exist in Chapter 5
+- [ ] Set up basic size of Chapter 6
+- [ ] Finish Map Tile Graphics for Chapter 6
+- [ ] Add all characters that exist in Chapter 6
+- [ ] Set up basic size of Chapter 7
+- [ ] Finish Map Tile Graphics for Chapter 7
+- [ ] Add all characters that exist in Chapter 7
+- [ ] Set up basic size of Chapter 8
+- [ ] Finish Map Tile Graphics for Chapter 8
+- [ ] Add all characters that exist in Chapter 8
+- [ ] Set up basic size of Chapter 9
+- [ ] Finish Map Tile Graphics for Chapter 9
+- [ ] Add all characters that exist in Chapter 9
+- [ ] Set up basic size of Chapter 10
+- [ ] Finish Map Tile Graphics for Chapter 10
+- [ ] Add all characters that exist in Chapter 10
+- [ ] Set up basic size of Final Chapter
+- [ ] Finish Map Tile Graphics for Final Chapter
+- [ ] Add all characters that exist in Final Chapter
+- [ ] Add in 3D graphics for battlefield (Every type)
+- [ ] Add in Critical cut-in's for each Named Character
+- [ ] Add Skill Activation icon in upper corner based on Character's location on the screen
 - [ ] Add in 3D graphics for base character classes
   - [ ] Named Characters
   - [ ] Generic/Unnamed Characters
@@ -65,3 +102,19 @@ Very Basic Readme - Need to spruce up more before finalized and decide how to us
 - [ ] Add in 3D graphics for alternate tier 3 character classes
   - [ ] Named Characters
   - [ ] Generic/Unnamed Characters
+- [ ] Insert Script for Prologue
+- [ ] Insert Script for Chapter 1
+- [ ] Insert Script for Chapter 2
+- [ ] Insert Script for Chapter 3
+- [ ] Insert Script for Chapter 4
+- [ ] Insert Script for Chapter 5
+- [ ] Insert Script for Chapter 6
+- [ ] Insert Script for Chapter 7
+- [ ] Insert Script for Chapter 8
+- [ ] Insert Script for Chapter 9
+- [ ] Insert Script for Chapter 10
+- [ ] Insert Script for Final Chapter
+- [ ] Create Start Screen
+- [ ] Create Chapter fade in (Unique one for each chapter)
+- [ ] Voice acting ? (For scripts, Critical cut in's and potential cutscenes)
+- [ ] Cutscenes ?
