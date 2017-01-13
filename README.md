@@ -1,4 +1,4 @@
-# **_Fire Emblem: Genealogy of the Holy War Redux_**
+#**_Fire Emblem: Genealogy of the Holy War Redux_**
 An update for the Fire Emblem: Genealogy of the Holy War released on the SNES in 1996. Original game developed by Intelligent Systems, and published by Nintendo. Graphics pulled from Fire Emblem: Awakening, released in 2012 and will be pulled from Fire Emblem: Fates, set to release in 2016. Disclaimer: I do not own Fire Emblem or any of the graphics (custom or otherwise) pulled from the games. This project is only for fun, and to see if it's possible to transfer to modern day graphics. 
 
 Very Basic Readme - Need to spruce up more before finalized and decide how to use some controls <br />
@@ -14,7 +14,6 @@ Very Basic Readme - Need to spruce up more before finalized and decide how to us
 
 
 ##**_Task List:_** <br />
-(May break down categories for really tedious tasks, e.g into chapters) <br />
 Takes Deep Breath...
 - [ ] Finish Readme
 - [x] Create three panes, one for "upper screen", one for characters on upper screen and one for lower screen
@@ -204,6 +203,8 @@ Takes Deep Breath...
 - [x] Create Stat Screen when cursor is moved over character
 - [ ] Finalize Movement range/Attack Range and debug
 - [ ] Begin coding Battle Formulas
+  - [ ] Exclude ability for Ally team to attack Enemy NPC (This is to force player to move and act quicker, or block player's progress)
+  - [ ] \(Should Ally NPC be able to attack Enemy NPC?\)
 - [ ] Inject basic battle sequences (without 3D graphics)
 - [ ] Add in 3D graphics for battlefield (Every type)
 - [ ] Add in Critical cut-in's for each Named Character
@@ -228,5 +229,13 @@ Takes Deep Breath...
   - [ ] Generic/Unnamed Characters
 - [ ] Create Start Screen
 - [ ] Create Chapter fade in (Unique one for each chapter)
+- [ ] Use Start Screen
+- [ ] Add in save feature
+- [ ] Add in bookmark feature (similar to save, but saves progress on chapter as well. Bookmark would be erased when game is continued)
+- [ ] Use created scripts for each chapter
+- [ ] Integrate ability to press **ENTER**/**RETURN** to skip scripts
+- [ ] Scripted Battles
+  - [ ] Gandolf vs Midayle
+  - [ ] Alvis vs Sigurd
 - [ ] Voice acting ? (For scripts, Critical cut in's and potential cutscenes)
 - [ ] Cutscenes ?
