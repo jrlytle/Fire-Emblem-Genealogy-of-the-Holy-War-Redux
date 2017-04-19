@@ -1,8 +1,8 @@
-#**_Fire Emblem: Genealogy of the Holy War Redux_**
+# **_Fire Emblem: Genealogy of the Holy War Redux_**
 An update for the Fire Emblem: Genealogy of the Holy War released on the SNES in 1996. Original game developed by Intelligent Systems, and published by Nintendo. Graphics pulled from Fire Emblem: Awakening, released in 2012 and will be pulled from Fire Emblem: Fates, set to release in 2016. Disclaimer: I do not own Fire Emblem or any of the graphics (custom or otherwise) pulled from the games. This project is only for fun, and to see if it's possible to transfer to modern day graphics. 
 
 Very Basic Readme - Need to spruce up more before finalized and decide how to use some controls <br />
-##**_Controls:_**  <br />
+## **_Controls:_**  <br />
 * **Z** (like A on DS/3DS) - Select Character, Continue Dialogue, Select highlighted choice <br />
 * **X** (like B on DS/3DS) - Cancel Character Selection, Cancel Character Move (Before hitting any command) <br />
 * **A** (like X on 3DS) -  <br />
@@ -13,7 +13,7 @@ Very Basic Readme - Need to spruce up more before finalized and decide how to us
 * **Right SHIFT** (like Select on DS/3DS) - 
 
 
-##**_Task List:_** <br />
+## **_Task List:_** <br />
 Takes Deep Breath...
 - [ ] Finish Readme
 - [x] Create three panes, one for "upper screen", one for characters on upper screen and one for lower screen
